@@ -6,10 +6,10 @@
 	"prefer-stable": true,
 	"require": {
 		"php": "^8.1",
-		"kenariosz/test-metapackage-ce": "dev-b-7.0"
+		"kenariosz/test-meta-package-ce": "dev-b-7.0"
 	},
 	"repositories": {
-		"kenariosz/test-metapackage-ce": {
+		"kenariosz/test-meta-package-ce": {
 			"type": "git",
 			"url": "https://github.com/kenariosz/test-meta-package-ce"
 		}

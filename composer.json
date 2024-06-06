@@ -2,9 +2,9 @@
 	"name": "kenariosz/test-project",
 	"type": "project",
 	"description": "This is a POC project.",
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
 	"require": {
-		"kenariosz/test-metapackage-ce": "v7.0.0"
+		"kenariosz/test-metapackage-ce": "dev-b-7.0"
 	},
 	"config": {
 		"preferred-install": {

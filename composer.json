@@ -1,0 +1,14 @@
+{
+	"name": "kenariosz/test-project",
+	"type": "project",
+	"description": "This is a POC project.",
+	"minimum-stability": "stable",
+	"require": {
+		"kenariosz/test-metapackage-ce": "v7.0.0"
+	},
+	"config": {
+		"preferred-install": {
+			"*": "dist"
+		}
+	}
+}

@@ -3,7 +3,9 @@
 	"type": "project",
 	"description": "This is a POC project.",
 	"minimum-stability": "dev",
+	"prefer-stable": true,
 	"require": {
+		"php": "^8.1",
 		"kenariosz/test-metapackage-ce": "dev-b-7.0"
 	},
 	"config": {

@@ -12,6 +12,10 @@
 		"kenariosz/test-meta-package-ce": {
 			"type": "git",
 			"url": "https://github.com/kenariosz/test-meta-package-ce"
+		},
+		"kenariosz/test-shop-ce": {
+			"type": "git",
+			"url": "https://github.com/kenariosz/test-shop-ce"
 		}
 	}
 }
